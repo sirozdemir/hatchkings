@@ -29,3 +29,26 @@ Eğer bot istediğiniz gibi çalışmıyorsa:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 2.Scripti Çalıştırın
+```bash
+python bot.py
+```
+### 3.Botu Durdurmak İçin
+CTRL + C
+
+## 📌 Notlar
+
+- Bot, ekran çözünürlüğüne ve görüntü kalitesine duyarlıdır. Görsellerin oyundakiyle birebir aynı olması gerekir.
+- Bilgisayarınızda Python 3.7 veya üzeri bir sürüm yüklü olmalıdır.
+- Oyunun penceresi çalışırken **ekranda açık** ve **ön planda** olmalıdır.
+- Bot çalışırken fareyi başka yere kaydırmak, tıklamaları etkileyebilir.
+
+---
+
+## ⚠️ Sorumluluk Reddi
+
+Bu bot, Hatchkings oyununun hizmet şartlarına aykırı olabilir. Geliştirici, bu botun kullanımından doğabilecek herhangi bir hesap kısıtlaması, yasaklama veya diğer sonuçlardan **sorumlu değildir**. Kullanım tamamen kendi sorumluluğunuzdadır.
+
+---
